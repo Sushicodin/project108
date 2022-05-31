@@ -1,0 +1,38 @@
+body{
+    font-family: 'Comic Neue', cursive;
+    background-color: rgb(109, 234, 119);
+}
+
+.header_div p{
+    color: rgb(77, 76, 76);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.header_div{
+    background-color: rgb(232, 211, 173);
+    color: rgb(7, 0, 7);
+}
+
+.main_div button{
+    margin-top: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    background-color: rgb(247, 77, 77);
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    bottom: 0;
+    width: 100%;
+    background-color: wheat;
+    line-height: 3;
+    text-align: center;
+    font-size: 17px;
+}
